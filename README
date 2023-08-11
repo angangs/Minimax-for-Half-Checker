@@ -1,0 +1,19 @@
+Half-Checkers
+--------------------------------------------------
+Author: Aggelos Aggelidakis
+--------------------------------------------------
+Requirements: 
+
+* any Linux distribution
+
+Compilation: 
+
+* make - to build client and server
+
+Execution: 
+
+./guiServer
+./server [-p port] [-g number_of_games] [-s (swap color after each game)]
+./client [-i ip] [-p port]
+--------------------------------------------------
+
